@@ -1,3 +1,4 @@
+
 const fs = require('fs');
 const generatePage = require('./src/page-template');
 const profileDataArgs = process.argv.slice(2);
